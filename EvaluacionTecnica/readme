@@ -1,0 +1,12 @@
+Este es un proyecto de MVC con PHP puro no se usa ningun framework
+Estructura de los archivos
+
+En la raiz se encuentra el archivo index.php y .htaccess, estos son los "manejadores principales"
+
+En config estan las variables para ajustar los parametros a la base de datos
+debes inportar la base de datos que esta aqui y cambiar la configuracion correspondiente
+de este archivo
+
+Los archivos de libs son clases padres que generalizan la funcionalidad de los respectivos
+archivos estos pueden tener mas funcionalidad para el rendimiento del MVC, los que estan en
+object solo que me ayudan a manipular datos
